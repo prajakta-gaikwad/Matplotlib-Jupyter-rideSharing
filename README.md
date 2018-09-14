@@ -238,7 +238,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![Alt text](fares_by_city_type.png?raw=true "Optional Title")
 
 
 ## Total Rides by City Type
@@ -272,7 +272,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![Alt text](rides_by_city_type.png?raw=true "Optional Title")
 
 
 ## Total Drivers by City Type
@@ -318,5 +318,5 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![Alt text](total_drivers_by_city.png?raw=true "Optional Title")
 
