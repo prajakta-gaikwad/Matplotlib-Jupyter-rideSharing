@@ -1,5 +1,14 @@
 
 # Ride Sharing company's data analysis:
+This project is to analyze a ride sharing company's data that contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+
+**Tech/framework used:**
+* Matplotlib Library
+* Pandas Library
+* Numpy Library
+* Jupyter Notebook
+
+**Observable trends based on the data analysis:**
 * More than half of the total fares are generated from Urban cities (62.7%) followed by Suburban cities (30.5%)
 * 80.9% of the total drivers drive in Urban cities
 * In Rural areas both total rides and number of drivers are much less however, the Average Fare is substantially higher than suburban and urban cities
@@ -197,7 +206,7 @@ plt.savefig('Pyber_Ride_Sharing_2016.png')
 plt.show()
 ```
 
-
+![alt text](https://raw.githubusercontent.com/prajakta-gaikwad/Matplotlib-Jupyter-rideSharing/branch/path/to/Pyber_Ride_Sharing_2016.png)
 ![png](output_9_0.png)
 
 
