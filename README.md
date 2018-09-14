@@ -206,8 +206,7 @@ plt.savefig('Pyber_Ride_Sharing_2016.png')
 plt.show()
 ```
 
-![alt text](https://raw.githubusercontent.com/prajakta-gaikwad/Matplotlib-Jupyter-rideSharing/branch/path/to/Pyber_Ride_Sharing_2016.png)
-![png](output_9_0.png)
+![Alt text](Pyber_Ride_Sharing_2016.png?raw=true "Optional Title")
 
 
 ## Total Fares by City Type
